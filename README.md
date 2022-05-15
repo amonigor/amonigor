@@ -1,8 +1,10 @@
-### Olá, sou Igor Amon!
+<div style="width: 100%; border-radius: 50px">
+  <img src="./header.png" alt="Hi, I'm Igor Amon" style="border-radius: 4px">
+</div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amonigor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonigor&layout=compact&langs_count=16&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amonigor&show_icons=true&include_all_commits=true&count_private=true&bg_color=07628f&title_color=ffffff&border_radius=0&text_color=ffffff99&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonigor&layout=compact&langs_count=16&bg_color=07628f&title_color=ffffff&border_radius=0&text_color=ffffff99&hide_border=true">
 </div>
 
 ##
